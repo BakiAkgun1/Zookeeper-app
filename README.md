@@ -1,6 +1,6 @@
 # 🐘 Zookeeper Java Örnek Uygulaması
 
-Bu proje, Apache Zookeeper'ın temel özelliklerini gösteren Java tabanlı bir örnek uygulamadır. Zookeeper'ın dağıtık sistemlerde koordinasyon, konfigürasyon yönetimi ve servis keşfi gibi önemli işlevlerini pratik olarak öğrenmenizi sağlar.
+Bu proje, Apache Zookeeper'ın temel özelliklerini gösteren Java tabanlı bir örnek uygulamadır. Zookeeper'ın dağıtık sistemlerde koordinasyon, konfigürasyon yönetimi ve servis keşfi gibi önemli işlevlerini  barındırır.
 
 ## 📋 İçindekiler
 
