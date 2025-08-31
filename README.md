@@ -205,29 +205,9 @@ docker build -t zookeeper-app .
 docker run --network zookeeper-network zookeeper-app
 ```
 
-## 🤝 Katkıda Bulunma
-
-1. Bu repository'yi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
 
 ## 📝 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 🙏 Teşekkürler
 
-- [Apache Zookeeper](https://zookeeper.apache.org/) - Dağıtık koordinasyon servisi
-- [Apache Maven](https://maven.apache.org/) - Build tool
-- [SLF4J & Logback](http://www.slf4j.org/) - Logging framework
-
-## 📞 İletişim
-
-- **Proje Linki**: [https://github.com/kullaniciadi/zookeeper-java-example](https://github.com/kullaniciadi/zookeeper-java-example)
-- **Issues**: [GitHub Issues](https://github.com/kullaniciadi/zookeeper-java-example/issues)
-
----
-
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
